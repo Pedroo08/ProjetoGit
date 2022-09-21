@@ -7,3 +7,5 @@ Projeto escrito aqui
 
  git checkout nome-da-branch -> trocar de branch
 
+git marge novo-botao -> mesclar branch
+
